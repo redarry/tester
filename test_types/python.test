@@ -1,0 +1,4 @@
+[Commands]
+INIT_COMMAND=
+MAIN_COMMAND=python [file]
+FINAL_COMMAND=
