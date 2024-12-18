@@ -1,0 +1,4 @@
+[Commands]
+INIT_COMMAND=g++ [file] -o tmp_exec_file
+MAIN_COMMAND=tmp_exec_file
+FINAL_COMMAND=rm tmp_exec_file
